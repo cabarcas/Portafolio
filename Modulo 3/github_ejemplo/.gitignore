@@ -1,0 +1,5 @@
+env_proyecto/
+__pycache__/
+*.pyc
+.vscode/
+*.code-workspace
